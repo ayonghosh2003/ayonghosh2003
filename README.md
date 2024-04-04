@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayonghosh2003
 - 👀 I’m interested in programming and basketball.
-- 🌱 I’m currently learning how to program.
+- 🌱 I’m currently learning persuing a double honours in finance and economics.
 - 📫 You can email me at ayonghosh2012@yahoo.ca.
 
 <!---
